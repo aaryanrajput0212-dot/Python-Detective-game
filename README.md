@@ -37,7 +37,7 @@ The Anonymous Murder
 ## How to Run
 
 ```bash
-python Task01.py
+python Game.py
 ```
 
 ## Author
